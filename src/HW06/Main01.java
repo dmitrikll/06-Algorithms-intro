@@ -2,7 +2,7 @@ package HW06;
 
 import java.util.Arrays;
 
-public class Main {
+public class Main01 {
 
     static double[] productPrices;
     static double averagePrice;
