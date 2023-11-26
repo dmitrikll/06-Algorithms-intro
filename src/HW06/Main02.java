@@ -30,6 +30,6 @@ public class Main02 {
         averagePrice = sum / productPrices.length;
 
         System.out.println("\nII. Sorted array by bubble sort: \n" + Arrays.toString(productPrices) +
-                "\n\nIII. The average value of the array is: " + String.format("%.2f", averagePrice));
+                "\n\nIII. The average price for the period is: " + String.format("%.2f", averagePrice) + "EUR");
     }
 }
